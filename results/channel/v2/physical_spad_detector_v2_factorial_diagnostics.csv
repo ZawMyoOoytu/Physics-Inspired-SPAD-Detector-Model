@@ -1,0 +1,5 @@
+outcome,diagnostic,statistic,p_value,interpretation_threshold,note
+qber,Shapiro_Wilk_residual_normality,0.8764762231224525,0.0001897306587967276,0.05,Small p suggests departure from normality; low sample size limits diagnostic power.
+qber,Levene_median_variance_homogeneity,1.069263327847099,0.4057435766485228,0.05,Small p suggests unequal variances across the 9 cells.
+sifted_bits_per_second,Shapiro_Wilk_residual_normality,0.9778345646864938,0.5346092179848156,0.05,Small p suggests departure from normality; low sample size limits diagnostic power.
+sifted_bits_per_second,Levene_median_variance_homogeneity,1.648254038749792,0.14561888755038305,0.05,Small p suggests unequal variances across the 9 cells.
