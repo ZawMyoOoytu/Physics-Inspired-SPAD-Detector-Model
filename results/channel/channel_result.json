@@ -1,0 +1,19 @@
+{
+    "pulses": 200000,
+    "fiber_length_km": 20.0,
+    "fiber_loss_db": 4.0,
+    "transmission_probability": 0.3981071705534972,
+    "detector_efficiency": 0.2,
+    "total_detection_efficiency": 0.07962143411069944,
+    "signal_detection_probability": 0.0390286825807612,
+    "dark_count_probability": 1.999999000079633e-06,
+    "detected_events": 7839,
+    "signal_clicks": 7839,
+    "dark_only_clicks": 0,
+    "sifted_key_length": 3914,
+    "errors": 35,
+    "qber": 0.008942258559018906,
+    "detection_rate": 0.039195,
+    "sifted_rate": 0.01957,
+    "eve_attack": false
+}
